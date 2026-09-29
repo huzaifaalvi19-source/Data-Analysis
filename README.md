@@ -1,7 +1,7 @@
 # Data-Analysis
 A collection of data analysis projects and practical exercises using Python, SQL, Power BI, and Excel. This repository demonstrates my work in data cleaning, exploratory analysis, visualization, querying, dashboard development, and extracting insights from data.
 # **EXCEL**
-<br>
+
 # Excel Data Analysis Projects
 
 Two end-to-end business analytics projects built entirely in Microsoft Excel: a **pizza sales dashboard** and a **customer segmentation model using RFM analysis**. Both cover data modeling, formula-driven calculations, pivot tables, and visual reporting.
