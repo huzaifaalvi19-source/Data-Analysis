@@ -96,9 +96,3 @@ Customer analytics, percentile-based scoring, nested `IF` logic, `DATEDIF`, pivo
 Industrial Engineer | Data Analysis & Simulation
 GitHub: [huzaifaalvi19-source](https://github.com/huzaifaalvi19-source)
 
-git lfs install
-git lfs track "*.xlsx"
-git add .gitattributes
-git add your_file.xlsx
-git commit -m "Add Excel dataset"
-git push
