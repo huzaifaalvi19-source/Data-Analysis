@@ -9,7 +9,7 @@ Applied analytics projects focused on making business information easier to expl
 | Project | Business question | Available material |
 | --- | --- | --- |
 | Pizza sales dashboard | What sells, when, and at what value? | [Excel workbook](https://github.com/huzaifaalvi19-source/Data-Analysis/blob/main/Excel/Dataset%20-%20Pizza%20Sales%20-%20Dashboard.xlsx) |
-| RFM customer segmentation | Which customers should be rewarded, nurtured, or re-engaged? | [Project notes and external dataset](https://github.com/huzaifaalvi19-source/Data-Analysis/tree/main/Excel/RFM%20Analysis) |
+| RFM customer segmentation | Which customers should be rewarded, nurtured, or re-engaged? | [Project overview](https://github.com/huzaifaalvi19-source/Data-Analysis/tree/main/Excel/RFM%20Analysis) |
 
 ## Pizza sales dashboard
 
@@ -31,11 +31,11 @@ RFM groups customers using **recency** (how recently they bought), **frequency**
 
 The documented approach aggregates transactions by customer, applies percentile-based scores, and maps customers to segments such as Champions, Potential Loyalists, New Customers, and At-Risk Customers.
 
-The repository currently links to an **externally hosted dataset**. A standalone RFM analysis workbook, Python notebooks, SQL scripts, and Power BI files are not currently uploaded here.
+This repository provides an overview of the RFM approach. The underlying dataset is not included. A standalone RFM analysis workbook, Python notebooks, SQL scripts, and Power BI files are not currently uploaded here.
 
 ## Open the materials
 
-Download the pizza-sales workbook and open it in Microsoft Excel to explore the analysis sheets, charts, and filters. For RFM, use the linked project folder to access the external dataset.
+Download the pizza-sales workbook and open it in Microsoft Excel to explore the analysis sheets, charts, and filters. For RFM, use the linked project folder to read the analysis approach.
 
 ## About my analytics work
 
