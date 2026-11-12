@@ -1,7 +1,16 @@
-## Dataset
+# RFM Customer Segmentation
 
-The complete dataset used for this project is hosted externally due to its file size.
+A customer-analysis project using **recency, frequency, and monetary value** to support customer prioritization and marketing decisions.
 
-📊 **[Acces the Google Sheet](https://docs.google.com/spreadsheets/d/1HFY7W8-bN8EcWOuTdzwIPeGlICGJq-ClzKql55sEB3M/edit?usp=sharing)**
+## Analysis approach
 
-The repository contains the analysis workflow, SQL queries, Python notebooks, Excel analysis, and Power BI dashboard.
+1. Aggregate transactions by customer.
+2. Calculate recency from the most recent purchase, purchase frequency, and total monetary value.
+3. Assign percentile-based scores to each dimension.
+4. Map the scores to customer segments and relevant follow-up strategies.
+
+## Available materials
+
+This folder provides a project overview. A dataset, standalone RFM workbook, SQL queries, Python notebooks, and Power BI dashboard are not included in this repository.
+
+[← Back to analytics projects](../../README.md)
